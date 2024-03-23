@@ -1,4 +1,4 @@
-![Header](./your-header-image-name(1).png)
+![Header](banner.png)
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">An aspiring Software Engineer from the Philippines, passionate about programming.</h3>
 <img align="right"   src="84e36470c3e534a5e71c208cd872d177.gif" alt="coding" width="400">
