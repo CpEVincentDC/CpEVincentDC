@@ -1,7 +1,7 @@
 ![Header](./your-header-image-name1.png)
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">An aspiring Software Engineer from the Philippines, passionate about programming.</h3>
-<img align="right"   src="https://i.gifer.com/5IJ.mp4" alt="coding" width="500">
+<img align="right"   src="[https://i.gifer.com/5IJ.mp4](https://i.pinimg.com/originals/84/e3/64/84e36470c3e534a5e71c208cd872d177.gif)" alt="coding" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cpevincentdc&label=Profile%20views&color=0e75b6&style=flat" alt="cpevincentdc" /> </p>
 
