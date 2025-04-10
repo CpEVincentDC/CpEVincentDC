@@ -79,7 +79,7 @@ I'm a data professional specializing in end-to-end solutions that bridge data en
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&theme=radical&hide_border=true&card_width=1000" />
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&theme=radical&hide_border=true" />
       </td>
     </tr>
   </table>
