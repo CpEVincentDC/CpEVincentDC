@@ -1,101 +1,70 @@
-![Header](banner.png)
+# Vincent Cumayas
+## Data Scientist & Engineer | Cloud Solutions Architect
 
-<h1 align="center">Hi 👋, I'm Vincent Cumayas</h1>
-<h3 align="center">Data Scientist & Engineer from the Philippines | Building data-driven solutions and intelligent systems.</h3>
+> Building intelligent, scalable, and data-driven systems that solve real business problems
 
-<img align="right" src="84e36470c3e534a5e71c208cd872d177.gif" alt="coding" width="400"/>
+## 🔍 About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cpevincentdc&label=Profile%20views&color=0e75b6&style=flat" alt="cpevincentdc" />
-</p>
+I'm a data professional specializing in end-to-end solutions that bridge data engineering, science, and application development. My expertise includes:
 
----
+- 🏗️ **Data Architecture**: Building robust, scalable data pipelines and infrastructure on GCP
+- 🧠 **AI/ML Applications**: Implementing production-ready machine learning systems and LLM-powered tools
+- 🔄 **Full-Stack Integration**: Creating seamless interfaces between data systems and user-facing applications
 
-### 🔍 About Me
+## 🛠️ Technical Expertise
 
-- 💡 **Data Scientist & Engineer** experienced in delivering end-to-end data and AI solutions—from scalable ETL pipelines to real-time analytics and ML-powered applications.
-- 🧠 Built **AI/ML APIs** with Hugging Face and Langchain for product recommendation and chatbot systems.
-- 🛠️ Skilled in **Python, BigQuery, MongoDB, Hugging Face, GCP, SQL, Docker, Apache Spark**, and more.
-- 📊 Created interactive **Looker Studio dashboards** and integrated **Google Analytics** for performance optimization.
-- 🤝 Passionate about mentoring, open-source, and creating impact with intelligent automation.
+### Data Engineering
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
+### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
-### 🧠 Core Skills & Technologies
+### Application Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Languages**  
-Python · SQL · JavaScript · Java · Bash
+## 💼 Professional Focus
 
-**Data Science & ML**  
-Scikit-learn · TensorFlow · Pandas · Numpy · MLFlow · NLP · Hugging Face · Langchain · OpenCV · Matplotlib · Seaborn
+- Designing event-driven architectures for real-time data processing
+- Building custom AI solutions that integrate seamlessly with existing systems
+- Creating intuitive dashboards and visualizations that unlock data-driven decision making
+- Mentoring junior developers and data scientists
 
-**Data Engineering**  
-BigQuery · MongoDB · PostgreSQL · Apache Spark · ETL Pipelines · Google Cloud Platform · Supabase · Prometheus · Grafana
+## 📫 Connect With Me
 
-**Tools & DevOps**  
-Docker · Git · CI/CD · Looker Studio · Power BI · Google Apps Script
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vincent-cumayas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cpe.vincentcumayas@gmail.com)
 
----
+## 📈 GitHub Stats
 
-### 💼 Work Snapshot
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpevincentdc&layout=compact&theme=radical&hide_border=true)
 
-**📊 A2K Group – Data Scientist & Modeling Analyst**  
-*May 2024 – March 2025 | Philippines*
-
-- Designed and deployed ML-powered APIs using Hugging Face and Sentence Transformers for personalized recommendations.
-- Developed end-to-end **ETL pipelines (Medallion Architecture)** with MongoDB ↔ BigQuery integration.
-- Led real-time data visualization via **Looker Studio dashboards** and monitoring with **Prometheus + Grafana**.
-- Built chatbot systems using **Langchain + Gemini AI** and mentored interns on MLOps and data workflows.
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/vincent-cumayas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:cpe.vincentcumayas@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-
-**Languages & Data**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-</p>
-
-**Frameworks & Libraries**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpevincentdc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cpevincentdc&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&" alt="GitHub Streak" />
-</p>
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpevincentdc&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&theme=radical&hide_border=true)
