@@ -65,6 +65,22 @@ I'm a data professional specializing in end-to-end solutions that bridge data en
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpevincentdc&layout=compact&theme=radical&hide_border=true)
-
-![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpevincentdc&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&theme=radical&hide_border=true)
+<div align="center" width="100%">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>CpEVincentDC's GitHub Stats</h3>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=cpevincentdc&show_icons=true&theme=radical&hide_border=true&card_width=500" />
+      </td>
+      <td width="50%" align="center">
+        <h3>Most Used Languages</h3>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpevincentdc&layout=compact&theme=radical&hide_border=true&card_width=500" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&theme=radical&hide_border=true&card_width=1000" />
+      </td>
+    </tr>
+  </table>
+</div>
