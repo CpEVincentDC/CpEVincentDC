@@ -1,4 +1,3 @@
-# Vincent Cumayas
 ## Data Scientist & Engineer | Cloud Solutions Architect
 
 > Building intelligent, scalable, and data-driven systems that solve real business problems
